@@ -14,7 +14,13 @@ export default (() => {
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
-		<Box min-width="70%" padding="20px" margin-left="260px" min-height="70px">
+		<Box
+			align-items="center"
+			min-width="70%"
+			padding="20px"
+			margin-left="260px"
+			min-height="70px"
+		>
 			<Text margin="0px 0px 0px 0px">
 				Description
 			</Text>
@@ -22,14 +28,31 @@ export default (() => {
 			<br />
 			<br />
 			<br />
+			<Text margin="0px 0px 0px 0px">
+				University
+			</Text>
 			<Input />
 			<br />
 			<br />
 			<br />
+			<Text margin="0px 0px 0px 0px">
+				Institute
+			</Text>
 			<Input />
 			<br />
 			<br />
 			<br />
+			<Text margin="0px 0px 0px 0px">
+				Lab Name
+			</Text>
+			<Input />
+			<br />
+			<br />
+			<br />
+			<Text margin="0px 0px 0px 0px">
+				Procedure Name
+			</Text>
+			<Input />
 		</Box>
 		<Box
 			display="grid"
