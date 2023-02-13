@@ -6,7 +6,8 @@ const pageStyles = {
     "404": {},
     "index": {},
     "add-runz": {},
-    "header": {}
+    "header": {},
+    "contact": {}
 };
 
 const PageStyles = createGlobalStyle`
