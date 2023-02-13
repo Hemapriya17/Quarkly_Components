@@ -62,7 +62,7 @@ export default (() => {
 			margin-left="260px"
 			min-height="70px"
 		>
-			<Button background="#f2c232" text="black">
+			<Button color="black" background="#f2c232" text="black">
 				SAVE
 			</Button>
 			<Button background="red">
