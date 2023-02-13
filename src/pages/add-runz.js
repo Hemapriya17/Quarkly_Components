@@ -14,8 +14,10 @@ export default (() => {
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
-		<Text margin="0px 0px 0px 0px" />
-		<Box min-width="70%" padding="20px" margin-left="260px" min-height="70%">
+		<Box min-width="70%" padding="20px" margin-left="260px" min-height="70px">
+			<Text margin="0px 0px 0px 0px">
+				Description
+			</Text>
 			<Input />
 			<br />
 			<br />
@@ -29,7 +31,14 @@ export default (() => {
 			<br />
 			<br />
 		</Box>
-		<Box display="grid" grid-gap="16px">
+		<Box
+			display="grid"
+			width="20%"
+			position="center"
+			grid-gap="16px"
+			margin-left="260px"
+			min-height="70px"
+		>
 			<Button background="#f2c232" text="black">
 				SAVE
 			</Button>
