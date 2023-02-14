@@ -9,7 +9,7 @@ export default {
 				"63e9b37c3a0508001e07982e",
 				"63e9f7dff2f031001fb86709",
 				"63e9fa40f2f031001fb8674e",
-				"63e9fdfe4a50a9001ffd3e77"
+				"63eb09294a50a9001ffd45be"
 			]
 		},
 		"63e9b37c3a0508001e07982b": {
@@ -32,10 +32,10 @@ export default {
 			"pageUrl": "header",
 			"name": "Header"
 		},
-		"63e9fdfe4a50a9001ffd3e77": {
-			"id": "63e9fdfe4a50a9001ffd3e77",
-			"pageUrl": "contact",
-			"name": "Contact"
+		"63eb09294a50a9001ffd45be": {
+			"id": "63eb09294a50a9001ffd45be",
+			"pageUrl": "show-procedure",
+			"name": "Show procedure"
 		}
 	},
 	"mode": "production",

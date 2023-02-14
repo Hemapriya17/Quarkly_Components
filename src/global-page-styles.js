@@ -7,7 +7,7 @@ const pageStyles = {
     "index": {},
     "add-runz": {},
     "header": {},
-    "contact": {}
+    "show-procedure": {}
 };
 
 const PageStyles = createGlobalStyle`
