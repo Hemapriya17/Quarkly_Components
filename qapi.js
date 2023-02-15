@@ -19,7 +19,7 @@ export default {
 		},
 		"63e9b37c3a0508001e07982e": {
 			"id": "63e9b37c3a0508001e07982e",
-			"name": "Contact",
+			"name": "Header",
 			"pageUrl": "index"
 		},
 		"63e9f7dff2f031001fb86709": {
@@ -30,7 +30,7 @@ export default {
 		"63e9fa40f2f031001fb8674e": {
 			"id": "63e9fa40f2f031001fb8674e",
 			"pageUrl": "header",
-			"name": "Header"
+			"name": "AddUser"
 		},
 		"63eb09294a50a9001ffd45be": {
 			"id": "63eb09294a50a9001ffd45be",
